@@ -1,2 +1,2 @@
-# IFC-Product-Catalog
+# ProductPass
 Product Catalog based on IFC
